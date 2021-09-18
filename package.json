@@ -1,0 +1,11 @@
+{
+  "name": "recipeorganiser",
+  "version": "1.0.0",
+  "description": "Recipe Organiser projoct",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
